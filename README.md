@@ -23,4 +23,4 @@ Lastly, Section 7 will describe the results of our research and will present wha
 comparison with other works
 
 
-For more Please open the BioKey.pdf file.
+For more information please open the BioKey.pdf file.
